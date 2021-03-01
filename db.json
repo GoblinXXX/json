@@ -1,18 +1,21 @@
 {
   "header_text": [
     {
+    "id": 1,
     "url": "/serials",   
     "serials": "Сериалы"
     },
-    {
+    {"id": 2,
     "url": "/show", 
     "show": "Шоу"
     },
     {
+    "id": 3,
     "url": "/preferences", 
     "myChoice": "Мой выбор"
     },
     {
+    "id": 4,
     "url": "/faq", 
     "help": "Помощь"
     }
