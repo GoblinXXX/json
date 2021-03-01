@@ -1,4 +1,22 @@
 {
+  "header_text": [
+    {
+    "url": "/serials",   
+    "serials": "Сериалы"
+    },
+    {
+    "url": "/show", 
+    "show": "Шоу"
+    },
+    {
+    "url": "/preferences", 
+    "myChoice": "Мой выбор"
+    },
+    {
+    "url": "/faq", 
+    "help": "Помощь"
+    }
+   ],
   "projects_top": [
     {
       "id": 1,
