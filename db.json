@@ -23,17 +23,17 @@
   "main_page": [
     {
     "id": 1,
-    "url": "/serials"
+    "url": "/serials",
     "name": "сериалы"
     },
     {
     "id": 2,
-    "url": "/show"
+    "url": "/show",
     "name": "Шоу"
     },
     {
     "id": 3,
-    "url": "/preferences"
+    "url": "/preferences",
     "name": "Мой выбор"
     }
   ],
