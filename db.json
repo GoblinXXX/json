@@ -20,23 +20,6 @@
     "name": "Помощь"
     }
    ],
-  "main_page": [
-    {
-    "id": 1,
-    "url": "/serials",
-    "name": "сериалы"
-    },
-    {
-    "id": 2,
-    "url": "/show",
-    "name": "Шоу"
-    },
-    {
-    "id": 3,
-    "url": "/preferences",
-    "name": "Мой выбор"
-    }
-  ],
   "projects_top": [
     {
       "id": 1,
@@ -58,6 +41,10 @@
     }
   ],
   "series": [
+    {
+    "galleryname": "Сериалы",
+    "href": "/serials"  
+    },
     {
       "id": 1,
       "name": "Сліпа",
