@@ -41,11 +41,13 @@
     }
   ],
   "series": [
-    {
+    "label": [
+   {
      "id": "1",
     "galleryname": "Сериалы",
     "href": "/serials"  
-    },
+    }
+  ],
     {
       "id": 2,
       "name": "Сліпа",
@@ -90,11 +92,13 @@
     }
   ],
   "show": [
-    {
+    "label": [
+   {
      "id": "1",
     "galleryname": "Сериалы",
     "href": "/serials"  
-    },
+    }
+  ],
     {
       "id": 2,
       "name": "xc bcxvbxvxb",
