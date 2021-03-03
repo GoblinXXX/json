@@ -41,7 +41,7 @@
     }
   ],
   "series": [
-    "label": [
+    "label", [
    {
      "id": "1",
     "galleryname": "Сериалы",
@@ -92,7 +92,7 @@
     }
   ],
   "show": [
-    "label": [
+    "label", [
    {
      "id": "1",
     "galleryname": "Сериалы",
