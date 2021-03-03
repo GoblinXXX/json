@@ -42,6 +42,7 @@
   ],
   "series": [
     {
+     "id": "galname",
     "galleryname": "Сериалы",
     "href": "/serials"  
     },
