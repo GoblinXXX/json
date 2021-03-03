@@ -91,6 +91,11 @@
   ],
   "show": [
     {
+     "id": "0",
+    "galleryname": "Сериалы",
+    "href": "/serials"  
+    },
+    {
       "id": 1,
       "name": "xc bcxvbxvxb",
       "url": "https://teleportal.ua/serials/stb/slipa",
