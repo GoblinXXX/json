@@ -89,7 +89,7 @@
         "channel": "СТБ"
       }
   ],
- "show" {
+ "show": {
   "galleryname": "Сериалы",
   "href": "/serials",
   "list": [
