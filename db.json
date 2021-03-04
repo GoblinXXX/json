@@ -89,10 +89,10 @@
         "channel": "СТБ"
       }
   ],
-   
+  {
   "galleryname": "Сериалы",
   "href": "/serials",
-  "video": [
+  "show": [
     {
       "id": 1,
       "name": "xc bcxvbxvxb",
@@ -186,5 +186,6 @@
     }
 
 ]
+}
 }
 
