@@ -91,9 +91,15 @@
   ],
   "show": [
    {
-     "id": "1",
-    "galleryname": "Сериалы",
-    "href": "/serials"  
+  "galleryname": "Сериалы",
+  "href": "/serials",
+  "video": [
+    {
+      "id": 1,
+      "name": "xc bcxvbxvxb",
+      "url": "https://teleportal.ua/serials/stb/slipa",
+      "image": "https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056744419.jpeg",
+      "channel": "СТБ"
     },
     {
       "id": 2,
@@ -131,54 +137,56 @@
       "channel": "СТБ"
     },
     {
-      "id":7,
+      "id": 7,
       "name": "Слbvcxvb іпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 8,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 9,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 10,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 11,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 12,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     },
-     {
+    {
       "id": 13,
       "name": "Сліcvbcvпа",
       "url": "https://teleportal.ua/serials/stb/slipa",
       "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
       "channel": "СТБ"
     }
+  ]
+}
 ]
 }
 
