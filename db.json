@@ -40,12 +40,10 @@
       "image": "https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056732798.jpeg"
     }
   ],
-  "series": [
-        {
-       "id": "1",
-      "galleryname": "Сериалы",
-      "href": "/serials"  
-      },
+ "series": {
+  "galleryname": "Сериалы",
+  "href": "/serials",
+  "itemlist": [
       {
         "id": 2,
         "name": "Сліпа",
@@ -90,8 +88,8 @@
       }
   ],
  "show": {
-  "galleryname": "Сериалы",
-  "href": "/serials",
+  "galleryname": "Шоу",
+  "href": "/show",
   "itemlist": [
     {
       "id": 1,
