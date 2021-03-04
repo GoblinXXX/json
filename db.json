@@ -86,7 +86,8 @@
         "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
         "channel": "СТБ"
       }
-  ],
+  ]
+ },
  "show": {
   "galleryname": "Шоу",
   "href": "/show",
@@ -186,4 +187,3 @@
 ]
 }
 }
-
