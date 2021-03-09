@@ -186,16 +186,52 @@
 
 ]
 },
-  "agreement": {
-    "title": "Договір користувача та політика конфіденційності",
-    "description": "УГОДА КОРИСТУВАЧА ТЕРМІНИ І ВИЗНАЧЕННЯ, ЩО ВИКОРИСТОВУЮТЬСЯ В УГОДІ «Адміністратор» – Товариство з обмеженою відповідальністю «СТАРЛАЙТ ДІДЖИТАЛ», юридична особа, яка зареєстрована і діє згідно з законодавством України, код ЄДРПОУ 36123396, що встановлює порядок і умови використання сайту teleportal.ua.",
+   "agreement": {
+  "title": "Серичссмисмимисчмисмисмиалы",
+  "description": "fgs dfgsdfgsdfxgdsfbcdfbdffdbddvvvcxxvv fgsdfgfg dfg dsfg dsfg dsfg dsfgfgs dfgsdfgsdfxgdsfbcdfbdffdbddvvvcxxvv fgsdfgfg dfg dsfg dsfg dsfg dsfg dsfg ds fgd fgdsf gdsfg dfg ",
   "itemlist": [
-    {
-      "id": 1,
-      "name": "xc bcxvbxvxb",
-      "url": "https://teleportal.ua/serials/stb/slipa",
-      "image": "https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056744419.jpeg",
-      "channel": "СТБ"
-    },
-    ]
+      {
+        "id": 2,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/slipa",
+        "image": "https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056744419.jpeg",
+        "channel": "Новый канал"
+      },
+      {
+        "id": 3,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/slipa",
+        "image": "https://teleportal.ua/storage/editor/fotos/slepaya_1581325982451.jpeg",
+        "channel": "СТБ"
+      },
+      {
+        "id": 4,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/slipa",
+        "image": "https://teleportal.ua/storage/editor/fotos/na-troih_1580909826728.jpeg",
+        "channel": "ICTV"
+      },
+      {
+        "id": 5,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/foo",
+        "image": "https://teleportal.ua/storage/editor/fotos/mama_1612951163373.jpeg",
+        "channel": "ICTV"
+      },
+      {
+        "id": 6,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/bar",
+        "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
+        "channel": "СТБ"
+      },
+      {
+        "id": 7,
+        "name": "Сліпа",
+        "url": "https://teleportal.ua/serials/stb/slipa",
+        "image": "https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
+        "channel": "СТБ"
+      }
+  ]
+ },
 }
